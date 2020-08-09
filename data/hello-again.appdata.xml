@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 Your Name <fidelisakilan@gmail.com> -->
+<component type="desktop">
+  <id>com.github.fidelisakilan.helloagainworld</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Hello Again beach</name>
+  <summary>This app post properly</summary>
+  <description>
+    <p>I hope your computer stays safe after installing this</p>
+  </description>
+  <custom>
+  <value key="x-appcenter-color-primary">#603461</value>
+  <value key="x-appcenter-color-primary-text">rgb(255, 255, 255)</value>
+  <value key="x-appcenter-suggested-price">5</value>
+</custom>
+</component>
